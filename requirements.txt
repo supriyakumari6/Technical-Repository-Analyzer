@@ -1,0 +1,6 @@
+openai
+streamlit
+langchain
+requests
+nbformat
+python-dotenv
