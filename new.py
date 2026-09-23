@@ -14,7 +14,7 @@ import dotenv
 
 dotenv.load_dotenv(dotenv_path="key.env")
 #Api key
-#streamlit framework for frontend
+#streamlit framework for frontend that help to live the website
 st.title("Github Analysis Project")
 profile=st.text_input("Enter the Github Profile link")
 
