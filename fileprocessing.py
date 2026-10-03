@@ -58,4 +58,4 @@ def delete_files_except_extensions(directory, extensions):
             file_extension = os.path.splitext(filename)[1]
             if file_extension not in extensions:
                 os.remove(file_path)  
-                ## that's it
+                ## that's it for today, We'll meet soon.....Bybyeeee
